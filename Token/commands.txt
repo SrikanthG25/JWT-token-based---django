@@ -1,0 +1,6 @@
+Super user {
+
+    username : Auth,
+    Email : auth@gmail.com
+    pass : 123
+}
